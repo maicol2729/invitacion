@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: #b5e4f8;
     font-family: sans-serif;
     margin: 0;
 }
@@ -50,3 +50,4 @@ p {
     background-color: #dc3545; /* Rojo para No */
     position: absolute; /* Habilita el movimiento con JS */
 }
+
